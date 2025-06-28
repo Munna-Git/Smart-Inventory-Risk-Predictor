@@ -1,0 +1,6 @@
+store_id,name,type,size,city
+ST001,Downtown Grocery,grocery,medium,Boston
+ST002,MedCare Pharmacy,pharmacy,small,Austin
+ST003,TechMart Electronics,electronics,large,Seattle
+ST004,Corner Market,grocery,small,Denver
+ST005,Campus Pharmacy,pharmacy,medium,Chicago
