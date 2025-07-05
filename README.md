@@ -261,6 +261,7 @@ smart_inventory_predictor/
 ├── results/                  # Models and outputs
 │   ├── models/risk_predictor.pkl     # Trained model
 │   ├── figures/business_impact.png   # Key visualizations
+│   ├── video demo                    # Live video demo of the app
 │   └── reports/final_analysis.pdf    # Executive summary
 └── deployment/               # A simple app
     ├── streamlit_app.py              # A  simple UI for user-system interaction
