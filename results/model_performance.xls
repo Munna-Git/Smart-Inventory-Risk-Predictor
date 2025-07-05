@@ -1,0 +1,4 @@
+Model,F1_Score,Business_Impact
+Baseline,0.08672611550585688,42015
+Random Forest,0.6730255149010304,234360
+Logistic Regression,0.5103949719435233,164505
